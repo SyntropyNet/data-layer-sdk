@@ -11,7 +11,7 @@ with the Data Layer Broker network and the Blockchain to offer seamless integrat
 
 - **Publish New Data Streams**: Create and publish your own data streams directly from your Golang applications. Share data with other participants in the Data Layer, facilitating collaboration and enabling the creation of innovative data-driven solutions.
 
-- **Support for JSON Messages**: Leverage the flexibility and interoperability of JSON messages. [data-layer-sdk](https://github.com/SyntropyNet/data-layer-sdk) provides support for handling JSON data, making it easy to work with complex data structures and seamlessly integrate with other systems and platforms. Even more, the SDK allows adding your own type marshallers to support any whire data format.
+- **Support for JSON Messages**: Leverage the flexibility and interoperability of JSON messages. [data-layer-sdk](https://github.com/SyntropyNet/data-layer-sdk) provides support for handling JSON data, making it easy to work with complex data structures and seamlessly integrate with other systems and platforms. Even more, the SDK allows adding your own type marshallers to support any wire data format.
 
 - **Customizable Connection Options**: Tailor the connection options to suit your specific needs. Configure parameters such as connection timeouts, retry mechanisms, and authentication details to ensure a secure and reliable connection to the Syntropy Data Layer platform.
 
